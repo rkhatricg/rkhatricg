@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rkhatricg
-- 💞️ I’m looking to collaborate on janus repo
 - 📫 i can be reached at ruchir.khatri@capgemini.com and +919782384844
 
 <!---
